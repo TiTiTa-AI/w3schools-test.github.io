@@ -16,6 +16,9 @@ We will not allow messages that are negative, or hurtful. Try to be welcome and 
 You can add almost anything to the index.html file between the indicated comments:
 
 `<!-- Insert your message below here -->`
+I was also here to learn.
+I came, I saw, I conquered.
+ A Nigerian in Japan
 
 
 
